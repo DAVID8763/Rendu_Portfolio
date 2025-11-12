@@ -1,0 +1,11 @@
+body{
+    margin: 0px
+}
+.fond_noir{
+    background-color: #282828;
+    padding: 20px;
+}
+.navBar {
+    display: flex;
+    justify-content: space-between;
+}
