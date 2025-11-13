@@ -17,10 +17,12 @@ header {
 }
 
 .navBar {
-    color: white;
-    display: flex;
-    flex: auto;
-    flex-flow: row-reverse;;
+        display: flex;
+    gap: 100px;
+    a{
+        color: white;
+    }
+        
 }
 
 .container {
