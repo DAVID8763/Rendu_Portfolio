@@ -90,14 +90,37 @@ header {
     border: 100px;
     color: black;
     
-    Avis{
-        color: black;
-    }
     
 }
 
 .cardAvis {
     background-color: #c3c3c3;
     padding: 24px;
-    
+    height: 300px;
+    .imgblock_besidesfaceblock_container{
+        display: flex;
+    .blockbesidesface{
+        .star{
+            display:flex;
+        }
+    }
+
+    }
+.img_profileblock{
+    width: 50px;
 }
+    
+.img_profile{
+    width: 100%;
+    border-radius: 100%;
+    
+    
+
+}
+   
+}
+
+
+
+
+
