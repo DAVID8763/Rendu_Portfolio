@@ -122,6 +122,8 @@ header {
 }
 
 .footer{
+    background-color:#282828;
+    color: white;
     display: flex;
     flex-direction:row;
     .icons{
