@@ -108,6 +108,7 @@ header {
     }
 .img_profileblock{
     width: 50px;
+
 }
     
 .img_profile{
@@ -120,6 +121,15 @@ header {
    
 }
 
+.footer{
+    display: flex;
+    flex-direction:row;
+    .icons{
+        width: 30px;
+        height: 30px;
+    }
+    
+}
 
 
 
